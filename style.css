@@ -1,0 +1,9 @@
+body{font-family:Arial,sans-serif;background:#f4f4f4;padding:20px;color:#333}
+h2{color:#1a73e8}
+input{display:block;width:100%;padding:10px;margin:5px 0 15px 0;border:1px solid #ccc;border-radius:6px}
+button{background:#1a73e8;color:white;border:none;padding:12px 20px;border-radius:6px}
+#main-heading{text-align:center;color:#1a73e8;font-size:36px}
+#placeholder-text{color:#888;font-style:italic;text-align:center;padding:20px;background:#eee;border-radius:6px}
+.subtitle{text-align:center;color:#666;margin-bottom:30px}
+.add-expense-section{background:white;padding:25px;border-radius:10px;margin-bottom:25px}
+.expenses-section{background:#e8f0fe;padding:25px;border-radius:10px;border:2px dashed #1a73e8}
